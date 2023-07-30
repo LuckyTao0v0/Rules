@@ -5,6 +5,7 @@
 # DOMAIN-KEYWORD: 2
 # DOMAIN-SUFFIX: 52
 # TOTAL: 54
+payload:
   - DOMAIN-SUFFIX, emby.wtf
   - DOMAIN-SUFFIX, misakaf.org
   - DOMAIN-SUFFIX, odysseyplus.site
