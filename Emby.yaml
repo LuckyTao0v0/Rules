@@ -1,10 +1,10 @@
 # NAME: Emby
 # AUTHOR: LuckyTao
-# UPDATED: 2024年2月16日20:16:40
+# UPDATED: 2024年7月1日01:15:22
 # DOMAIN: 0
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 56
-# TOTAL: 58
+# DOMAIN-SUFFIX: 57
+# TOTAL: 59
 payload:
   - DOMAIN-SUFFIX, emby.wtf
   - DOMAIN-SUFFIX, misakaf.org
@@ -62,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX, peachmv.me
   - DOMAIN-SUFFIX, coemn.com
   - DOMAIN-SUFFIX, emby.ml
+  - DOMAIN-SUFFIX, charontv.com
   
   - DOMAIN-KEYWORD, odysseyplus 
   - DOMAIN-KEYWORD, emby 
