@@ -3,8 +3,8 @@
 # UPDATED: 2024年7月14日00:52:49
 # HOST: 0
 # HOST-KEYWORD: 2
-# HOST-SUFFIX: 58
-# TOTAL: 60
+# HOST-SUFFIX: 59
+# TOTAL: 61
 HOST-SUFFIX, emby.wtf
 HOST-SUFFIX, misakaf.org
 HOST-SUFFIX, odysseyplus.site
@@ -63,6 +63,7 @@ HOST-SUFFIX, coemn.com
 HOST-SUFFIX, emby.ml
 HOST-SUFFIX, charontv.com
 HOST-SUFFIX, mcjoker.xyz
+HOST-SUFFIX, xmsl.org
   
 HOST-KEYWORD, odysseyplus 
 HOST-KEYWORD, emby 
