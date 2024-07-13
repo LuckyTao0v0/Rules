@@ -3,8 +3,8 @@
 # UPDATED: 2024年7月14日00:54:06
 # DOMAIN: 0
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 58
-# TOTAL: 60
+# DOMAIN-SUFFIX: 59
+# TOTAL: 61
 payload:
   - DOMAIN-SUFFIX, emby.wtf
   - DOMAIN-SUFFIX, misakaf.org
@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX, emby.ml
   - DOMAIN-SUFFIX, charontv.com
   - DOMAIN-SUFFIX, mcjoker.xyz
+  - DOMAIN-SUFFIX, xmsl.org
   
   - DOMAIN-KEYWORD, odysseyplus 
   - DOMAIN-KEYWORD, emby 
