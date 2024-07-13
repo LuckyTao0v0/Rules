@@ -1,10 +1,10 @@
 # NAME: Emby
 # AUTHOR: LuckyTao
-# UPDATED: 2024年7月1日01:15:22
+# UPDATED: 2024年7月14日00:54:06
 # DOMAIN: 0
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 57
-# TOTAL: 59
+# DOMAIN-SUFFIX: 58
+# TOTAL: 60
 payload:
   - DOMAIN-SUFFIX, emby.wtf
   - DOMAIN-SUFFIX, misakaf.org
@@ -19,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX, catfishemby.club
   - DOMAIN-SUFFIX, emby.ml
   - DOMAIN-SUFFIX, bddup.com
-  - DOMAIN-SUFFIX, misty.ltd
+  - DOMAIN-SUFFIX, misty.cx
   - DOMAIN-SUFFIX, embytv.cf
   - DOMAIN-SUFFIX, embymv.tk
   - DOMAIN-SUFFIX, pololine.ml
@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX, coemn.com
   - DOMAIN-SUFFIX, emby.ml
   - DOMAIN-SUFFIX, charontv.com
+  - DOMAIN-SUFFIX, mcjoker.xyz
   
   - DOMAIN-KEYWORD, odysseyplus 
   - DOMAIN-KEYWORD, emby 
