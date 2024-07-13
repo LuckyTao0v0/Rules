@@ -1,10 +1,10 @@
 # NAME: Emby
 # AUTHOR: LuckyTao
-# UPDATED: 2024年7月1日01:15:42
+# UPDATED: 2024年7月14日00:52:49
 # HOST: 0
 # HOST-KEYWORD: 2
-# HOST-SUFFIX: 57
-# TOTAL: 59
+# HOST-SUFFIX: 58
+# TOTAL: 60
 HOST-SUFFIX, emby.wtf
 HOST-SUFFIX, misakaf.org
 HOST-SUFFIX, odysseyplus.site
@@ -18,7 +18,7 @@ HOST-SUFFIX, mseic.com
 HOST-SUFFIX, catfishemby.club
 HOST-SUFFIX, emby.ml
 HOST-SUFFIX, bddup.com
-HOST-SUFFIX, misty.ltd
+HOST-SUFFIX, misty.cx
 HOST-SUFFIX, embytv.cf
 HOST-SUFFIX, embymv.tk
 HOST-SUFFIX, pololine.ml
@@ -62,6 +62,7 @@ HOST-SUFFIX, peachmv.me
 HOST-SUFFIX, coemn.com
 HOST-SUFFIX, emby.ml
 HOST-SUFFIX, charontv.com
+HOST-SUFFIX, mcjoker.xyz
   
 HOST-KEYWORD, odysseyplus 
 HOST-KEYWORD, emby 
