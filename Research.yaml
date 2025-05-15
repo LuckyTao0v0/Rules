@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,acs.org
   - DOMAIN-SUFFIX,webofscience.com
   - DOMAIN-SUFFIX,clarivate.com
+  - DOMAIN-SUFFIX,clarivate.cn
